@@ -17,7 +17,6 @@ The project includes a main landing page (`index.html`) and a registration page 
 
 - HTML
 
-
 ## Prerequisites
 
 - A modern web browser (Chrome, Firefox, Safari)
@@ -65,15 +64,10 @@ If you'd like to contribute:
 3. Commit your changes: `git commit -m "Add feature"`
 4. Push and open a pull request
 
-## License
-
-Specify a license for your project (for example, `MIT`) or keep it private. Replace this section with the license you prefer.
 
 ## Contact
 
-Project maintainer: Add your name and contact info here.
+Project maintainer: DEEPAK KUMAR G
 
----
 
-Update this `README.md` with project-specific details (author, repo URL, demo link, and license) when available.
 
